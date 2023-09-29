@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 881acf25-563a-ad89-1c16-bc17a8a08513
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cc7bab0a-e0b1-aee9-0f99-4b23289cd02b
+  name: Problem-Based Learning
+  pageRef: /pages/problem-based-learning
+  weight: 20
+- identifier: 976b405e-f4ba-2d57-7cb5-720bb016b3bd
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: b22abed1-bb81-2340-e3b7-7bd79c78d584
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: e8dc7630-38d7-424a-881a-0be53c35c639
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: adafc125-074f-e370-dec6-7122f185c1ef
+  name: Student Work
+  pageRef: /pages/student-work
+  weight: 60
+- identifier: 4a8b66eb-5040-b6de-b170-2fea52852944
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 70
